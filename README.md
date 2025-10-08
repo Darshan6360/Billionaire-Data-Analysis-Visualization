@@ -90,7 +90,3 @@ Contributions are encouraged and appreciated. To propose changes:
 3. Submit a pull request detailing your proposed enhancements
 
 ---
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full details.
